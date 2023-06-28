@@ -1,5 +1,5 @@
 ### Hello there 👋
-Dedicated and resourceful Lead Data Consultant with ample experience under the belt. 
+Dedicated and resourceful Lead Data Engineer with ample experience under the belt. 
 
 Eager to learn and passionate about data, Kaggle, and Open Source.
 
